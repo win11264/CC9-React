@@ -1,0 +1,12 @@
+.Lab1 {
+  display: flex;
+  width: 100vw;
+  height: 200px;
+  align-items: center;
+  justify-content: center;
+  background-color: aqua;
+}
+
+.button {
+  margin: 10px;
+}
