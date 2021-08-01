@@ -1,0 +1,17 @@
+.list {
+  display: flex;
+  margin: 20px;
+}
+
+.button {
+  margin: 10px;
+}
+
+p {
+  margin: 10px;
+}
+
+#firstLine {
+  color: green;
+  text-decoration: line-through;
+}
